@@ -1,0 +1,18 @@
+.details {
+  display: flex;
+  border: 1px solid black;
+}
+table td{
+  margin: 10px;
+  width: 50vw;
+  height: 3vw;
+  
+}
+
+.task-detail{
+  margin: 10px;
+ text-align: center;
+}
+.input{
+  border: 1px solid black;
+}
